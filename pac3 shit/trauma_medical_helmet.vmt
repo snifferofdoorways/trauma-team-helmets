@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/trauma_team/helmets/trauma_medical_helmet"
+	"$bumpmap" "models/trauma_team/helmets/trauma_medical_helmet_n"
+
+	//TRANSPARENCY AND AO:
+	"$Alphatest" "1"
+
+	$lightwarptexture "models\trauma_team\shared/lightwarp_soft"
+
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"0.55" 		
+	"$phongexponenttexture" "models\trauma_team\shared/phongwarp_sheen" 
+}
